@@ -9,5 +9,4 @@ public class SalesData {
 			System.out.println("Next Value: " + data[i]);
 		}
 	}
-
 }
